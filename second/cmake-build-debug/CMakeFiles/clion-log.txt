@@ -1,0 +1,4 @@
+/home/neevor/Programs/JetBrains/clion-2016.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/neevor/ClionProjects/second
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/neevor/ClionProjects/second/cmake-build-debug

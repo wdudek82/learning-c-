@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/pseudorangom.dir/main.cpp.o  -o pseudorangom 

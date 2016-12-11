@@ -1,0 +1,3 @@
+/home/neevor/ClionProjects/days_in_month/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/neevor/ClionProjects/days_in_month/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/neevor/ClionProjects/days_in_month/cmake-build-debug/CMakeFiles/days_in_month.dir
